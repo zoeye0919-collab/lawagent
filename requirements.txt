@@ -1,4 +1,5 @@
 streamlit
-openai
+langchain
+langchain-openai
 pandas
 python-docx
