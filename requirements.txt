@@ -1,5 +1,11 @@
 streamlit
 langchain
+langchain-community
+langchain-core
 langchain-openai
-pandas
+dashscope
 python-docx
+faiss-cpu
+pypdf
+docx2txt
+duckduckgo-search
